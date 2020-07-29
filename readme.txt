@@ -1,7 +1,1 @@
-first
-<<<<<<< HEAD
-seconde
-=======
-seconds
->>>>>>> featurel
-secondes
+久帝迷失
